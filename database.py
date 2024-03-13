@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.DEBUG)
 mydb = mysql.connector.connect(
    host="localhost",
    user="root", 
-   password="Nikhil@11", 
+   password="password", 
    database="petroltry"
 )
 
